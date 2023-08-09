@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nadge Sachin</h1>
 <h3 align="center">A passionate about full stack and android developer from India</h3>
 <img align ="right" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02" alt=“coding” width=“400px” height="400px" />
-
+<p>    </p>
 - I’m currently looking for **Work**
 
 - 👨‍💻 All of my projects are available at [https://nadge-sachin-resume.netlify.app/](https://nadge-sachin-resume.netlify.app/)
@@ -13,7 +13,7 @@
 <a href="https://twitter.com/nadge_sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nadge_sachin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nadge644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadge644" height="30" width="40" /></a>
 <a href="https://hashnode.com/nadgesachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="nadgesachin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nadgesachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nadgesachin" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/nadgesachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nadgesachin" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
