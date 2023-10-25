@@ -4,9 +4,7 @@
 <p>    </p>
 - I’m currently looking for **Work**
 
-- 👨‍💻 All of my projects are available at [https://nadge-sachin-resume.netlify.app/](https://nadge-sachin-resume.netlify.app/)
 
-- 📫 How to reach me **nadgesachin644@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
